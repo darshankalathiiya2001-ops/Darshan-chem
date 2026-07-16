@@ -30,15 +30,14 @@ OriginPro • CasaXPS • EC-Lab • GROMACS • Linux • VMD • Microsoft Exc
 ## 🌍 Languages
 
 - 🇩🇪 German (B1)
-- 🇬🇧 English
-- 🇮🇳 Hindi
-- 🇮🇳 Gujarati
+- 🇬🇧 English (fluent)
+- 🇮🇳 Hindi (native)
 
 ---
 
 ## 📫 Contact
 
-📧 Email: your-email@gmail.com
+📧 Email: darshankalathiiya2001@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/darshan-kalathiya
 
